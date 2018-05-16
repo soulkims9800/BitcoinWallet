@@ -1,3 +1,5 @@
+# Privacy Policy
+
 This Privacy Policy describes how TopCryptoWallet (referred to in this Privacy Policy as "App"," "Company," "Service", "We," "Us," or "Our") collects information when you use the App (separately and collectively as the "Service"). It also explains how we use and disclose the information we collect from you, and your rights in relation to that information.
 
 By accessing, visiting or using the Service, you expressly consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy. Please note that if you disagree with anything in this Privacy Policy, you must not use the Service.
