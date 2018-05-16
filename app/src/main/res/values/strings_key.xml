@@ -1,0 +1,14 @@
+<resources>
+
+    <string translatable="false" name="facebook_app_id">802928526569197</string>
+    <string translatable="false" name="fb_login_protocol_scheme">fb802928526569197</string>
+
+    <string translatable="false" name="email_feedback">bitcoin_wallet@gmail.com</string>
+
+    //TODO
+    <string translatable="false" name="privacy_policy_url">http://telegra.ph/TopBTCWallet-Privacy-Policy-05-10</string>
+    <string translatable="false" name="terms_of_use_url">http://telegra.ph/TopBTCWallet-Privacy-Policy-05-10</string>
+    <string translatable="false" name="site_url">http://telegra.ph/TopBTCWallet-Privacy-Policy-05-10</string>
+
+
+</resources>
