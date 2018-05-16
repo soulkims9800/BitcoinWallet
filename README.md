@@ -31,3 +31,8 @@ Our <b>Bitcoin Wallet</b> is easy-to-use secured bitcoin wallet with all the nec
 - You are in control of your public and private keys
 
 [![](promo/get_gp.png)](https://play.google.com/store/apps/details?id=wallet.bitcoin "Get Bitcoin Wallet")
+
+
+### License
+"All rights reserved"</br>
+This project code is a property of "Beethoven Apps Developers" company and it's developers, and can not be used by other parties.
