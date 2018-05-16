@@ -25,3 +25,5 @@ Our Bitcoin Wallet - easy-to-use secured bitcoin wallet with all the necessary a
 - Address import
 
 - Send to multiple users with one transaction! Save money on comission!
+
+[![](promo/get_gp.png)](https://play.google.com/store/apps/details?id=wallet.bitcoin "Get Bitcoin Wallet")
