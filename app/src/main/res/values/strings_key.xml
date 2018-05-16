@@ -6,8 +6,8 @@
     <string translatable="false" name="email_feedback">bitcoin_wallet@gmail.com</string>
 
     //TODO
-    <string translatable="false" name="privacy_policy_url">http://telegra.ph/TopBTCWallet-Privacy-Policy-05-10</string>
-    <string translatable="false" name="terms_of_use_url">http://telegra.ph/TopBTCWallet-Privacy-Policy-05-10</string>
+    <string translatable="false" name="privacy_policy_url">https://github.com/CryptoAppsDev/BitcoinWallet/blob/master/privacy.md</string>
+    <string translatable="false" name="terms_of_use_url">https://github.com/CryptoAppsDev/BitcoinWallet/blob/master/privacy.md</string>
     <string translatable="false" name="site_url">http://telegra.ph/TopBTCWallet-Privacy-Policy-05-10</string>
 
 
