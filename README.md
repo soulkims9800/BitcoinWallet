@@ -2,9 +2,7 @@
 
 ![alt text](promo/feature.png "Secure online Bitcoin wallet")
 
-TopBtcWallet - easy-to-use secured bitcoin wallet with all the necessary and modern functionality. 
-You can recieve and send payments very quickly.
-App works as client-server application. All data transfer is encoded, and secured via ssh.
+Our Bitcoin Wallet - easy-to-use secured bitcoin wallet with all the necessary and modern functionality. You can recieve and send payments very quickly. App works as client-server application. All data transfer is encoded, and secured via ssh. 
 
 ### FEATURES
 
