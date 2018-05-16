@@ -2,7 +2,7 @@
 
 ![alt text](promo/feature.png "Secure online Bitcoin wallet")
 
-Our Bitcoin Wallet - easy-to-use secured bitcoin wallet with all the necessary and modern functionality. You can recieve and send payments very quickly. App works as client-server application. All data transfer is encoded, and secured via ssh. 
+Our <b>Bitcoin Wallet</b> is easy-to-use secured bitcoin wallet with all the necessary and modern functionality. You can recieve and send payments, import addresses, view transaction details, etc. App works as client-server application. All data transfer is encoded, and secured via ssh. 
 
 ### FEATURES
 
@@ -12,7 +12,7 @@ Our Bitcoin Wallet - easy-to-use secured bitcoin wallet with all the necessary a
 
 - Shows where at the moment you can profitably buy bitcoin
 
-- Can send and recieve Bitcoins via NFC, QR codes or URLs.
+- Can send and recieve Bitcoins via QR codes or URLs.
 
 - Can show all of your used bitcoin addresses for advanced users or hide it for beginners.
 
@@ -25,5 +25,9 @@ Our Bitcoin Wallet - easy-to-use secured bitcoin wallet with all the necessary a
 - Address import
 
 - Send to multiple users with one transaction! Save money on comission!
+
+- Review all transaction details by address and by all wallet.
+
+- You are in control of your public and private keys
 
 [![](promo/get_gp.png)](https://play.google.com/store/apps/details?id=wallet.bitcoin "Get Bitcoin Wallet")
